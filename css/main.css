@@ -134,7 +134,7 @@ a {
 .box{
 	white-space: nowrap;
 }
-.box div{
+.box div {
 	width: 250px;
 	display: inline-block;
 }
