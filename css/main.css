@@ -124,7 +124,7 @@ a {
 	opacity: .45;
 	font-size: calc(var(--index) * .75);
 	letter-spacing: calc(var(--index) / 37.5);
-	color: var(--text)
+	color: var(--text);
 	text-shadow: 0 0 15px #9d822b;
 }
 .box-container {
